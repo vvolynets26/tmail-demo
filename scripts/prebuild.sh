@@ -4,7 +4,7 @@ set -e
 # debug log
 set -x
 
-cd core
+cd ../core
 flutter pub get
 
 ## Install necessary pods
